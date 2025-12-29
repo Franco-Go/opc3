@@ -1,0 +1,167 @@
+.navegacion {
+    background-color: #cae1e9;
+    text-align: right;
+    font-family: 'Elms', Elms Sans;
+    font-size: 20px;
+    max-width: 100%;
+    height: 70px;
+    padding-right: 40px;
+    padding-left: 40px;
+    line-height: 70px;
+    box-sizing: border-box;
+
+
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+li {
+    display: inline;
+    margin-left: 30px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.box {
+    float: left;
+    width: 50%;
+    height: 600px;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: #cae1e9;
+}
+
+
+.inicio1 {
+    text-align: center;
+    font-family: 'Elms', Elms Sans;
+    font-size: 20px;
+    padding-top: 170px;
+    width: 40%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.inicio2 {
+    width: 60%;
+    height: 600px;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
+
+
+.principal {
+
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+
+
+.boxB {
+    float: left;
+    width: 50%;
+    height: 200px;
+
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.busqueda1 {
+
+    text-align: center;
+    font-family: 'Elms', Elms Sans;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+
+.busqueda2 {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.cards {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 100px;
+
+}
+
+.item {
+    margin: 10px;
+    border: 3px solid #ccc;
+    width: 450px;
+    border-radius: 16px;
+}
+
+/*.item:hover {
+    border: 1px solid #777;
+}*/
+
+.img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+    font-family: 'Elms', Elms Sans;
+    font-size: 24px;
+}
+
+.desc1 {
+    padding: 9px;
+    text-align: center;
+    font-family: 'Elms', Elms Sans;
+    font-size: 20px;
+}
+
+
+.footer {
+
+    background-color: rgb(60, 60, 60);
+}
+
+.boxf {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    height: 200px;
+    box-sizing: border-box;
+    background-color: rgb(60, 60, 60);
+}
+
+.contacto {
+    color: white;
+    text-align: center;
+    font-family: 'Elms', Elms Sans;
+    font-size: 20px;
+}
+
+.redes {
+    color: white;
+    text-align: center;
+    font-family: 'Elms', Elms Sans;
+    font-size: 20px;
+}
